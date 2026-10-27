@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['debug_5fprint_0',['debug_print',['../structsfa40__handle__s.html#a769d5b3a6c14790a0e126e8fe70b384b',1,'sfa40_handle_s']]],
+  ['delay_5fms_1',['delay_ms',['../structsfa40__handle__s.html#a406c9433252b7366de417b7a60915c81',1,'sfa40_handle_s']]],
+  ['driver_20function_2',['driver function',['../group__sfa40__basic__driver.html',1,'sfa40 basic driver function'],['../group__sfa40__driver.html',1,'sfa40 driver function'],['../group__sfa40__example__driver.html',1,'sfa40 example driver function'],['../group__sfa40__extern__driver.html',1,'sfa40 extern driver function'],['../group__sfa40__interface__driver.html',1,'sfa40 interface driver function'],['../group__sfa40__link__driver.html',1,'sfa40 link driver function'],['../group__sfa40__test__driver.html',1,'sfa40 test driver function']]],
+  ['driver_5fsfa40_2ec_3',['driver_sfa40.c',['../driver__sfa40_8c.html',1,'']]],
+  ['driver_5fsfa40_2eh_4',['driver_sfa40.h',['../driver__sfa40_8h.html',1,'']]],
+  ['driver_5fsfa40_5fbasic_2ec_5',['driver_sfa40_basic.c',['../driver__sfa40__basic_8c.html',1,'']]],
+  ['driver_5fsfa40_5fbasic_2eh_6',['driver_sfa40_basic.h',['../driver__sfa40__basic_8h.html',1,'']]],
+  ['driver_5fsfa40_5finterface_2eh_7',['driver_sfa40_interface.h',['../driver__sfa40__interface_8h.html',1,'']]],
+  ['driver_5fsfa40_5finterface_5ftemplate_2ec_8',['driver_sfa40_interface_template.c',['../driver__sfa40__interface__template_8c.html',1,'']]],
+  ['driver_5fsfa40_5flink_5fdebug_5fprint_9',['DRIVER_SFA40_LINK_DEBUG_PRINT',['../group__sfa40__link__driver.html#gaca3719b744dabc52a9d5c9ebe4453f44',1,'driver_sfa40.h']]],
+  ['driver_5fsfa40_5flink_5fdelay_5fms_10',['DRIVER_SFA40_LINK_DELAY_MS',['../group__sfa40__link__driver.html#ga21f4448119d6ba4d4c57ba70ed9559c2',1,'driver_sfa40.h']]],
+  ['driver_5fsfa40_5flink_5fiic_5fdeinit_11',['DRIVER_SFA40_LINK_IIC_DEINIT',['../group__sfa40__link__driver.html#ga63d7da75f63d3b5d581ce16f4daf2f83',1,'driver_sfa40.h']]],
+  ['driver_5fsfa40_5flink_5fiic_5finit_12',['DRIVER_SFA40_LINK_IIC_INIT',['../group__sfa40__link__driver.html#ga01cdc71aeb8a7c29bb087dc5180b29c9',1,'driver_sfa40.h']]],
+  ['driver_5fsfa40_5flink_5fiic_5fread_5fcommand_13',['DRIVER_SFA40_LINK_IIC_READ_COMMAND',['../group__sfa40__link__driver.html#ga9999f20d15204c54c8765a22280b9866',1,'driver_sfa40.h']]],
+  ['driver_5fsfa40_5flink_5fiic_5fwrite_5fcommand_14',['DRIVER_SFA40_LINK_IIC_WRITE_COMMAND',['../group__sfa40__link__driver.html#gaf8ff6bb50f4630040ad68735ddebcb28',1,'driver_sfa40.h']]],
+  ['driver_5fsfa40_5flink_5finit_15',['DRIVER_SFA40_LINK_INIT',['../group__sfa40__link__driver.html#gacf78a2fc1b2af24b6724a43a42e79941',1,'driver_sfa40.h']]],
+  ['driver_5fsfa40_5fread_5ftest_2ec_16',['driver_sfa40_read_test.c',['../driver__sfa40__read__test_8c.html',1,'']]],
+  ['driver_5fsfa40_5fread_5ftest_2eh_17',['driver_sfa40_read_test.h',['../driver__sfa40__read__test_8h.html',1,'']]],
+  ['driver_5fsfa40_5fregister_5ftest_2ec_18',['driver_sfa40_register_test.c',['../driver__sfa40__register__test_8c.html',1,'']]],
+  ['driver_5fsfa40_5fregister_5ftest_2eh_19',['driver_sfa40_register_test.h',['../driver__sfa40__register__test_8h.html',1,'']]],
+  ['driver_5fversion_20',['DRIVER_VERSION',['../driver__sfa40_8c.html#ae578001fe043b4cca7a0edd801cfe9c4',1,'driver_sfa40.c']]],
+  ['driver_5fversion_21',['driver_version',['../structsfa40__info__s.html#a41b0bd442708b70d252c50b92c75265a',1,'sfa40_info_s']]]
+];
